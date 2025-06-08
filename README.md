@@ -6,8 +6,8 @@ const danielAceves = {
   name: "Daniel Aceves",
   location: "Jalisco, Mexico",
   experience: "3+ years",
-  stack: ["Kotlin", "Jetpack Compose", "MVVM", "Postman", "Google Maps API"],
-  tools: ["Android Studio", "Git", "Figma", "GitHub"],
+  stack: ["Kotlin", "Jetpack Compose", "MVVM", "Firebase", "Google Maps API"],
+  tools: ["Android Studio", "Git", "Postman", "GitHub"],
   goal: "Build modern and scalable Android apps using clean architecture."
 }
 ```
