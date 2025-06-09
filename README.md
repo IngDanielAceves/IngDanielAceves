@@ -35,5 +35,5 @@ const danielAceves = {
 ### 📫 Contact
 ### 📧 Email: Ing.aceves.dev@gmail.com
 ### 🌐 LinkedIn [Daniel Aceves](https://www.linkedin.com/in/ingdanielacevesdeveloper/)
-### 💻 RESUME PDF [Download Resume (PDF)]([https://drive.google.com/file/d/1cl4FNfcmZEcCz5JbF72XZxflFnMUy42P/view?usp=share_link](https://drive.google.com/file/d/1M05JSzryQbZtisZcpFxDPQEgYBVzVSCp/view?usp=sharing))
+### 💻 RESUME PDF [Download Resume (PDF)](https://drive.google.com/file/d/1M05JSzryQbZtisZcpFxDPQEgYBVzVSCp/view?usp=sharing)
 
